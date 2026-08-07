@@ -1,0 +1,1 @@
+variable "nat_gateway_public_ip_associations" {}

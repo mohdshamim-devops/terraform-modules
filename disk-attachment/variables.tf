@@ -1,0 +1,1 @@
+variable "disk_attachments" {}

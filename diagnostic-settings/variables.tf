@@ -1,0 +1,1 @@
+variable "diagnostic_settings" {}

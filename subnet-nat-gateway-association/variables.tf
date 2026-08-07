@@ -1,0 +1,1 @@
+variable "subnet_nat_gateway_associations" {}
